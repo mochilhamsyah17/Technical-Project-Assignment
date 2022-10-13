@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    flex-direction: column;
+}
+
+.card m-5{
+    background-color: rgb(190, 188, 188);
+}
+
+h2{
+    text-align: center;
+}
